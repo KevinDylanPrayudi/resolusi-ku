@@ -2,8 +2,11 @@ Rencana Bulan ini
 1. Mempelajari Javascript
 2. Mempelajari Php
   - Laravel
+  - CodeIgniter
+  - Yii
 3. Mempelajari Libraries Javascript
   - React Js
   - Jquery
   - Vue
 4. Menyelesaikan Project Skripsi
+5. Belajar Python
