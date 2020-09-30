@@ -3,6 +3,6 @@ Resolusi ku
 2. Menguasai CSS
   - Menguasai Bootstrap
   - Menguasai TailWind
-  - Menguasai Roboco
+  - Menguasai Materialize
 3. Menguasai PHP
 4. Menguasai JavaScript
