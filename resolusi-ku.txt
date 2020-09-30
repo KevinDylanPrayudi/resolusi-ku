@@ -1,5 +1,8 @@
 Resolusi ku
 1. Menguasai HTML
 2. Menguasai CSS
+  - Menguasai Bootstrap
+  - Menguasai TailWind
+  - Menguasai Roboco
 3. Menguasai PHP
 4. Menguasai JavaScript
