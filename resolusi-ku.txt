@@ -1,0 +1,5 @@
+Resolusi ku
+1. Menguasai HTML
+2. Menguasai CSS
+3. Menguasai PHP
+4. Menguasai JavaScript
