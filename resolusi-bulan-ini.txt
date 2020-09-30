@@ -1,6 +1,8 @@
 Rencana Bulan ini
 1. Mempelajari Javascript
 2. Mempelajari Php
+  - Laravel
 3. Mempelajari Libraries Javascript
   - React Js
   - Jquery
+  - Vue
