@@ -4,8 +4,12 @@ Rencana Bulan ini
   - Laravel
   - Syfoni
   - Zend
+  - CodeIgniter
+  - Yii
 3. Mempelajari Libraries Javascript
   - React Js
   - Jquery
   - Vue
   - Angular
+4. Menyelesaikan Project Skripsi
+5. Belajar Python
