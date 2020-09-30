@@ -6,3 +6,4 @@ Rencana Bulan ini
   - React Js
   - Jquery
   - Vue
+4. Menyelesaikan Project Skripsi
